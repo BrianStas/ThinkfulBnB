@@ -186,9 +186,11 @@ form div{
   #host{
     display: flex;
     gap: 10px;
+    align-items: center;
   }
   #host div{
     flex: 1;
+    
   }
 
 }
